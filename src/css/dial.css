@@ -1,0 +1,11 @@
+.nvd3.nv-dial circle.label {
+    fill: white;
+    display: inline;
+}
+  
+.nvd3.nv-dial   line.label {
+    stroke: white;
+    stroke-width: 1px;
+    display: inline;
+}
+
